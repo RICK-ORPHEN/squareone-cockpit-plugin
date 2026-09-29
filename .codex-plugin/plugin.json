@@ -1,0 +1,42 @@
+{
+  "name": "squareone-cockpit",
+  "version": "1.0.0",
+  "description": "Work on your explicitly shared Cockpit tasks and return deliverables for human review.",
+  "author": {
+    "name": "SQUAREONE",
+    "url": "https://square-one.co.jp"
+  },
+  "homepage": "https://cockpit.square-one.co.jp/plugins/cockpit",
+  "license": "LicenseRef-Proprietary",
+  "keywords": [
+    "tasks",
+    "meetings",
+    "productivity",
+    "cockpit"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "SQUAREONE Cockpit",
+    "shortDescription": "Take a task. Do the work. Return the result.",
+    "longDescription": "Work on your explicitly shared Cockpit tasks and return deliverables for human review.",
+    "developerName": "SQUAREONE",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://cockpit.square-one.co.jp/plugins/cockpit",
+    "privacyPolicyURL": "https://cockpit.square-one.co.jp/privacy",
+    "termsOfServiceURL": "https://cockpit.square-one.co.jp/terms",
+    "defaultPrompt": [
+      "List the Cockpit tasks I shared with my AI.",
+      "Work on my selected Cockpit task and submit the result for review.",
+      "Show the results submitted for my Cockpit task."
+    ],
+    "brandColor": "#06224A",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png"
+  },
+  "repository": "https://github.com/RICK-ORPHEN/squareone-cockpit-plugin"
+}

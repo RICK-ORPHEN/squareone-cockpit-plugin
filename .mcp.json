@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cockpit": {
+      "type": "http",
+      "url": "https://cockpit.square-one.co.jp/api/mcp"
+    }
+  }
+}
