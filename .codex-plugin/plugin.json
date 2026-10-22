@@ -1,9 +1,9 @@
 {
   "name": "squareone-cockpit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Work on your explicitly shared Cockpit tasks and return deliverables for human review.",
   "author": {
-    "name": "SQUAREONE",
+    "name": "株式会社スクエアワン",
     "url": "https://square-one.co.jp"
   },
   "homepage": "https://cockpit.square-one.co.jp/plugins/cockpit",
@@ -18,9 +18,9 @@
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "SQUAREONE Cockpit",
-    "shortDescription": "Take a task. Do the work. Return the result.",
+    "shortDescription": "Tasks to reviewed deliverables",
     "longDescription": "Work on your explicitly shared Cockpit tasks and return deliverables for human review.",
-    "developerName": "SQUAREONE",
+    "developerName": "株式会社スクエアワン",
     "category": "Productivity",
     "capabilities": [
       "Read",
@@ -36,7 +36,8 @@
     ],
     "brandColor": "#06224A",
     "composerIcon": "./assets/icon.png",
-    "logo": "./assets/icon.png"
+    "logo": "./assets/icon.png",
+    "supportURL": "https://cockpit.square-one.co.jp/plugins/cockpit#support"
   },
   "repository": "https://github.com/RICK-ORPHEN/squareone-cockpit-plugin"
 }

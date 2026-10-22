@@ -1,9 +1,9 @@
 {
   "name": "squareone-cockpit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Work on your explicitly shared Cockpit tasks and return deliverables for human review.",
   "author": {
-    "name": "SQUAREONE",
+    "name": "株式会社スクエアワン",
     "url": "https://square-one.co.jp"
   },
   "homepage": "https://cockpit.square-one.co.jp/plugins/cockpit",
@@ -14,5 +14,6 @@
     "productivity",
     "cockpit"
   ],
-  "repository": "https://github.com/RICK-ORPHEN/squareone-cockpit-plugin"
+  "repository": "https://github.com/RICK-ORPHEN/squareone-cockpit-plugin",
+  "privacyPolicyUrl": "https://cockpit.square-one.co.jp/privacy"
 }
