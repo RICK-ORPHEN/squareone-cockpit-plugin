@@ -15,5 +15,8 @@
     "cockpit"
   ],
   "repository": "https://github.com/RICK-ORPHEN/squareone-cockpit-plugin",
-  "privacyPolicyUrl": "https://cockpit.square-one.co.jp/privacy"
+  "privacyPolicyUrl": "https://cockpit.square-one.co.jp/privacy",
+  "supportUrl": "https://cockpit.square-one.co.jp/plugins/cockpit#support",
+  "documentationUrl": "https://cockpit.square-one.co.jp/plugins/cockpit",
+  "termsOfServiceUrl": "https://cockpit.square-one.co.jp/terms"
 }
